@@ -1,0 +1,82 @@
+body {
+    /* margin: 50px 140px 0px 140px; */
+    /* background-attachment: fixed; */
+}
+
+.banner {
+    width: 100%;
+    height: 600px;
+    background-image: url('../assets/images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    /* background-color: red; */
+    /* justify-content: center;
+    align-items: center; */
+    /* filter: brightness(0.8); */
+}
+
+.b-title {
+    color: #FFF;
+    /* text-align: center; */
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 177px;
+    /* background-color: red; */
+    /* margin-bottom: 16px; */
+
+}
+
+.b-heading {
+    color: #FFF;
+    /* text-align: center; */
+    font-size: 72px;
+    font-weight: 900;
+    /* width: 632px; */
+    /* line-height: 1.2; */
+    /* background-color: red; */
+}
+
+.offer {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 120px;
+    margin-bottom: 48px;
+}
+
+.our-holiday-text {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    /* margin-bottom: 16px; */
+}
+
+.all-categories-text {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 16px;
+}
+
+.new-year-photo {
+    text-align: center;
+}
+
+.second-banner{
+    width: 100%;
+    height: 600px;
+    background-image: url('../assets/images/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+}
+
+.
