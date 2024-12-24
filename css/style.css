@@ -66,7 +66,7 @@ body {
     text-align: center;
 }
 
-.second-banner{
+.second-banner {
     width: 100%;
     height: 600px;
     background-image: url('../assets/images/Vectorrr.png');
@@ -77,6 +77,142 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 120px;
+    /* background-color: red; */
 }
 
-.
+.second-banner-content {
+    /* background-color: blue; */
+}
+
+.welcome-text-box {
+    width: 642px;
+    height: fit-content;
+    /* background-color: #070211; */
+}
+
+.welcome-text {
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+}
+
+.second-banner-text-box {
+    width: 697px;
+    height: fit-content;
+    margin-top: 2px;
+    /* background-color: rebeccapurple; */
+}
+
+.second-banner-text {
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.join-text {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.location-parent-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+    /* background-color: #070211; */
+}
+
+.location-child-div {
+    width: 1320px;
+    height: 482px;
+    /* background-color: red; */
+    background-color: rgb(249, 229, 232);
+    border-radius: 10px;
+    margin-top: 120px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.location-text {
+    color: #070211;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.location-text-title {
+    color: #F00;
+}
+
+.join-now-button {
+    border-radius: 8px;
+    background: #F00;
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 16px 32px;
+    /* margin-top: 48px; */
+}
+
+.third-banner-parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+}
+
+.third-banner {
+    width: 1320px;
+    height: 463px;
+    display: flex;
+    /* gap: 90px; */
+}
+
+/* third banner divs style  */
+
+.third-banner-one {
+    width: 393px;
+    margin-right: 70px;
+}
+
+.third-banner-two {
+    width: 463px;
+    
+}
+
+.third-banner-three {
+    width: 276px;
+    margin-left: 118px;
+}
+
+.third-banner-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.third-banner-one-title {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0%;
+}
+
+.third-banner-one-heading {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 16px;
+    margin-bottom: 22px;
+}
+
+.third-banner-three-title {
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
