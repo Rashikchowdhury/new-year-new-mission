@@ -235,7 +235,7 @@ body {
     margin-top: 0%;
 }
 
-.holiday-sales-description-div{
+.holiday-sales-description-div {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -253,6 +253,48 @@ body {
     height: 96px;
 }
 
-.holidays-text{
+.holidays-text {
     color: #F00;
+}
+
+.fourth-banner-parent-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.fourth-banner-child-div {
+    /* display: flex; */
+    width: 1320px;
+}
+
+.gift-box {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.red-image {
+    width: fit-content;
+    height: fit-content;
+}
+
+.two-rectangel-div {
+    display: flex;
+}
+
+.girl-obaak {
+    height: fit-content;
+    width: fit-content;
+    /* position: relative; */
+    margin-left: 890px;
+}
+
+.discout-image {
+    height: fit-content;
+    width: fit-content;
+    position: absolute;
+    margin-left: 740px;
+    margin-top: 80px;
 }
