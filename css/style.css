@@ -262,6 +262,8 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+    background: #FFF;
+    margin-bottom: 120px;
 }
 
 .fourth-banner-child-div {
@@ -285,10 +287,12 @@ body {
 }
 
 .girl-obaak {
-    height: fit-content;
+    height: 433px;
     width: fit-content;
     /* position: relative; */
     margin-left: 890px;
+    /* background-color: aqua; */
+
 }
 
 .discout-image {
@@ -297,4 +301,65 @@ body {
     position: absolute;
     margin-left: 740px;
     margin-top: 80px;
+}
+
+.fifth-banner-text-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fifth-banner-text {
+    width: 1320px;
+}
+
+.the-best-gift {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0%;
+}
+
+.awsome-portfolio-text {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 16px;
+    margin-bottom: 22px;
+}
+
+.fifth-banner-description-div {
+    width: 896px;
+    height: fit-content;
+    margin-top: 0%;
+    margin-bottom: 48px;
+}
+
+.fifth-banner-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.fifth-banner-parent-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+.fifth-banner-child-div{
+    width: 1320px;
+    height: 924px;
+    /* background-color: #F00; */
+}
+
+.fifth-banner-image{
+    padding: 6px;
+}
+
+.fifth-banner-image:hover{
+    background-color: red;
+    border-radius: 16px;
 }
